@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<com.youth.banner.Banner
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/face_vpager"
+    ></com.youth.banner.Banner>
+</LinearLayout>
+<!--<cn.bingoogolapple.bgabanner.BGABanner android:id="@+id/face_vpager"
+    style="@style/BannerDefaultStyle"
+    android:layout_height="240dp"
+    app:banner_indicatorGravity="bottom|left"
+    app:banner_pointDrawable="@drawable/bga_banner_selector_point_solid"
+    app:banner_transitionEffect="flip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+</cn.bingoogolapple.bgabanner.BGABanner>-->
+<!--<cn.bingoogolapple.bgabanner.BGABanner android:id="@+id/face_vpager"
+    style="@style/BannerDefaultStyle"
+    android:layout_height="240dp"
+    app:banner_indicatorGravity="bottom|left"
+    app:banner_pointDrawable="@drawable/bga_banner_selector_point_solid"
+    app:banner_transitionEffect="flip"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" />-->
